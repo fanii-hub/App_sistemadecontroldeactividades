@@ -1,1 +1,2 @@
 # App_sistemadecontroldeactividades
+nota
