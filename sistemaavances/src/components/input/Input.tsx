@@ -24,14 +24,10 @@ interface IInput
   onKeyUp?:React.KeyboardEventHandler<HTMLInputElement>;
    
 }
-export const Loginn =() =>{
-  
-    
-}
 
 export const Input = (props:IInput) => {
   return (
-    <Input
+    <input
     type={props.type}
     id={props.id}
     className="from-control"
